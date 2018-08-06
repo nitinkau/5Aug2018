@@ -1,1 +1,0 @@
-Hi this is first text file which represent the project code. This is for Module 2 and Case study 1.
